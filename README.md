@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hormortee
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning a couple of things trying find my fit arroun programming. 
+- 🌱 I’m currently learning a couple of things trying to find my fit around programming. 
 - 💞️ I’m looking to collaborate on anything at all that can be helpful to my growth 
 - 📫 How to reach me via Mail omotarakeji@gmail.com
 
